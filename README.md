@@ -26,4 +26,4 @@ cs engineering student @ university of bath. co-founder of [social gravity](http
 - competed at BUCS 2026 powerlifting. 582.5kg total (210 squat / 140 bench / 232.5 deadlift)
 - languages: english + spanish (native), german (fluent), turkish (conversational)
 
-[alvarobalbin.com](https://alvarobalbin.com) · [linkedin](https://linkedin.com/in/alvaro-balbin-ugalde-68b237318)
+[alvarobalbin.com](https://alvarobalbin.com) · [linkedin](https://linkedin.com/in/alvaro-balbin-ugalde-68b237318) · [twitter](https://x.com/elalvarobalbin)
