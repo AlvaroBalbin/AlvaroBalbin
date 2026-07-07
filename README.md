@@ -16,6 +16,7 @@ cs engineering student @ university of bath. co-founder of [social gravity](http
 `PyTorch` `OpenCV` `FastAPI` `Docker` `Arduino` `ESP32` `KiCad`
 
 **some projects:**
+- [agent-os](https://github.com/AlvaroBalbin/agent-os) - text your server: phone-driven Claude Code agent on a $6 VPS, with a fail-closed approval gate on spend/deploy/destroy
 - [auto-framer](https://github.com/AlvaroBalbin/auto-framer) - real-time AI camera that tracks and frames the active speaker (30fps, multi-threaded)
 - [megamind-rag](https://github.com/AlvaroBalbin/megamind-rag) - RAG system with FastAPI + FAISS, deployed on AWS
 - [ml-audio-classifier](https://github.com/AlvaroBalbin/ml-audio-classifier) - CNN for environmental sound classification, 96.6% test accuracy
