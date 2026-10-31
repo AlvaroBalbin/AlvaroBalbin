@@ -1,9 +1,9 @@
 ### hey, i'm alvaro
 
-cs engineering student @ university of bath. founder of [SocialGravity](https://socialgravity.ai), based between madrid and london. i like building things that work in the real world.
+founder of [SocialGravity](https://socialgravity.ai). engineering @ bath. madrid and london.
 
 **what i'm up to:**
-- building [SocialGravity](https://socialgravity.ai) - permission infrastructure for licensed use of a real person's voice and likeness in AI creation
+- building [SocialGravity](https://socialgravity.ai) - permission for AI use of real voices and likenesses
 - co-founded [MCA Counselling](https://mca-counselling.com) - connecting international students with study-abroad peers across UK, US, and EU
 - balance systems lead @ [Team Bath Autonomous Sailing](https://teambathautonomoussailing.co.uk/) (with DRIFT Energy)
 - project manager @ Team Bath Drones - 19-engineer UAV team for Design, Build & Fly
