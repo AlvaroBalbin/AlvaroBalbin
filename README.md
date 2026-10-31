@@ -1,9 +1,9 @@
 ### hey, i'm alvaro
 
-cs engineering student @ university of bath. co-founder of [social gravity](https://socialgravity.ai). i like building things that work in the real world.
+cs engineering student @ university of bath. founder of [SocialGravity](https://socialgravity.ai), based between madrid and london. i like building things that work in the real world.
 
 **what i'm up to:**
-- building [Social Gravity](https://socialgravity.ai) - the licensing layer for human identity. brands license a real person's face and voice, and every use leaves a receipt anyone can check
+- building [SocialGravity](https://socialgravity.ai) - permission infrastructure for licensed use of a real person's voice and likeness in AI creation
 - co-founded [MCA Counselling](https://mca-counselling.com) - connecting international students with study-abroad peers across UK, US, and EU
 - balance systems lead @ [Team Bath Autonomous Sailing](https://teambathautonomoussailing.co.uk/) (with DRIFT Energy)
 - project manager @ Team Bath Drones - 19-engineer UAV team for Design, Build & Fly
@@ -40,4 +40,4 @@ cs engineering student @ university of bath. co-founder of [social gravity](http
 - competed at BUCS 2026 powerlifting. 582.5kg total (210 squat / 140 bench / 232.5 deadlift)
 - languages: english + spanish (native), german (fluent), turkish (conversational)
 
-[alvarobalbin.com](https://alvarobalbin.com) · [linkedin](https://linkedin.com/in/alvaro-balbin-ugalde-68b237318) · [twitter](https://x.com/elalvarobalbin)
+[alvarobalbin.com](https://www.alvarobalbin.com/) · [linkedin](https://linkedin.com/in/alvaro-balbin-ugalde-68b237318) · [twitter](https://x.com/elalvarobalbin)
