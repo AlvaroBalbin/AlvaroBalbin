@@ -4,6 +4,7 @@ founder of [SocialGravity](https://socialgravity.ai). engineering @ bath. madrid
 
 **what i'm up to:**
 - building [SocialGravity](https://socialgravity.ai) - permission for AI use of real voices and likenesses
+- published the [State of AI Identity Licensing 2026](https://socialgravity.ai/resources/state-of-ai-identity-licensing-2026) dataset - 14 primary sources, open CSV/JSON, [DOI](https://doi.org/10.5281/zenodo.24089413)
 - co-founded [MCA Counselling](https://mca-counselling.com) - connecting international students with study-abroad peers across UK, US, and EU
 - balance systems lead @ [Team Bath Autonomous Sailing](https://teambathautonomoussailing.co.uk/) (with DRIFT Energy)
 - project manager @ Team Bath Drones - 19-engineer UAV team for Design, Build & Fly
